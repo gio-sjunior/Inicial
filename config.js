@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
+			name: 'Agenda',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://calendar.google.com/calendar',
 		},
 		{
 			id: '2',
