@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Agenda',
-			icon: 'github',
+			icon: 'https://pt.m.wikipedia.org/wiki/Ficheiro:Google_Calendar_icon_%282020%29.svg',
 			link: 'https://calendar.google.com/calendar',
 		},
 		{
